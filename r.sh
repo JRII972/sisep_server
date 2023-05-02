@@ -1,1 +1,1 @@
-sudo R -e \"install.packages('shiny')\"
+sudo R -e "install.packages('shiny')"
